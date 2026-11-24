@@ -32,7 +32,7 @@ In a busy service centre, dozens of cars move every day between the gate, recept
 
 ## Demo
 
-*Number plates are masked in all screenshots and videos.*
+*Number plates are masked in all screenshots and videos. Screenshots are from a live test day (21 Nov 2026) on four cameras: reception, two workshop cameras and washing.*
 
 **Live dashboard (screen recording, 45 s):** [watch the video](img/live_dashboard.mp4)
 
