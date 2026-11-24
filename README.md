@@ -37,10 +37,10 @@ In a busy service centre, dozens of cars move every day between the gate, recept
 **Live dashboard (screen recording, 45 s):** [watch the video](img/live_dashboard.mp4)
 
 **Live board:** the cars on the premises, their current step and the day's counters
-![Live board](img/live.png)
+![Live board](img/live_board_2026-11-21.png)
 
 **Daily report:** every service visit of the day with the time of each journey step, ready for export
-![Daily report](img/report.png)
+![Daily report](img/daily_report_2026-11-21.png)
 
 ## How it works (in short)
 
